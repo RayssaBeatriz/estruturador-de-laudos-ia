@@ -5,7 +5,7 @@ DB_PATH = "./chroma_db_mamografias"
 PDF_DIR = "./documentos_pdf"
 
 # Modelos
-LLM_MODEL_NAME = "phi3" 
+LLM_MODEL_NAME = "deepseek-r1:7b" 
 
 # Modelo de Embedding 
 EMBEDDING_MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
